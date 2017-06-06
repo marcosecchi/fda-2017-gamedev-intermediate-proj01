@@ -8,3 +8,16 @@
 ## Progetto 1
 
 Introduzione all'utilizzo dei materiali ed agli oggetti in scena
+
+### Argomenti Trattati
+
+* Inserire un oggetto nella scena
+* Utilizzare i prefab
+* Utilizzare i component di un gameobject
+* Creare uno script
+* Creare un materiale
+* Aggiungere un'etichetta ad un gameobject
+* Recuperare un gameobject in scena tramite [Find](https://docs.unity3d.com/ScriptReference/GameObject.Find.html)
+* Recuperare una serie di gameobject tramite [FindGameObjectsWithTag](https://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html)
+* Sostituire un materiale tramite Script
+
