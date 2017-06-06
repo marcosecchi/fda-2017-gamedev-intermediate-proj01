@@ -20,4 +20,5 @@ Introduzione all'utilizzo dei materiali ed agli oggetti in scena
 * Recuperare un gameobject in scena tramite [Find](https://docs.unity3d.com/ScriptReference/GameObject.Find.html)
 * Recuperare una serie di gameobject tramite [FindGameObjectsWithTag](https://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html)
 * Sostituire un materiale tramite Script
+* Utilizzare un collider come [Trigger](https://unity3d.com/learn/tutorials/topics/physics/colliders-triggers)
 
