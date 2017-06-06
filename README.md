@@ -22,3 +22,6 @@ Introduzione all'utilizzo dei materiali ed agli oggetti in scena
 * Sostituire un materiale tramite Script
 * Utilizzare un collider come [Trigger](https://unity3d.com/learn/tutorials/topics/physics/colliders-triggers)
 
+### Extra Credits
+
+* [Appunti di Massimiliano](https://docs.google.com/document/d/1Dfp_cE--DbP4nQ2VeYk2Q8690AFVJy3PxAj6lMyX2OI/edit)
