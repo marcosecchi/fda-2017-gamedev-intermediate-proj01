@@ -21,6 +21,11 @@ Introduzione all'utilizzo dei materiali ed agli oggetti in scena
 * Recuperare una serie di gameobject tramite [FindGameObjectsWithTag](https://docs.unity3d.com/ScriptReference/GameObject.FindGameObjectsWithTag.html)
 * Sostituire un materiale tramite Script
 * Utilizzare un collider come [Trigger](https://unity3d.com/learn/tutorials/topics/physics/colliders-triggers)
+* [Compilazione Condizionale](https://docs.unity3d.com/Manual/PlatformDependentCompilation.html)
+* L'attributo [SerializeField](https://docs.unity3d.com/ScriptReference/SerializeField.html)
+* L'attributo [RequireComponent](https://docs.unity3d.com/ScriptReference/RequireComponent.html)
+* Come creare una minimap
+* Utilizzo dei [Layer](https://docs.unity3d.com/Manual/Layers.html)
 
 ### Extra Credits
 
